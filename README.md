@@ -62,21 +62,13 @@ please open an issue first to discuss what you would like to change.
 
 ## Tech Stack
 
-MongoDB, Express, React, Node, Socket.IO, Chakra-UI
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,node,postman)](https://skillicons.dev)
 
-## 🌟 Usage
-
-**Test users**
-
-| Email | Password  |
-| -------- | --------- |
-| kohli@test.com | kohlitest |
-
-``` Or Use the guest user login feature.  ```
-
+- Socket.IO, Chakra-UI
+  
 ### Clone the repository:
 ```
-git clone https://github.com/SiddharthSsb11/MERN-chat-app.git
+git clone https://github.com/pritesh2564u/Chat-Application.git
 ```
 
 ### Env Variables

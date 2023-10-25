@@ -62,7 +62,7 @@ please open an issue first to discuss what you would like to change.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,node,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,postman)](https://skillicons.dev)
 
 - Socket.IO, Chakra-UI
   

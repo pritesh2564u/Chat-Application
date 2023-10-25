@@ -27,7 +27,7 @@ please open an issue first to discuss what you would like to change.
 ![Chatpage](/screenshots/2.png "Chatpage")
 ![Groupchat](/screenshots/3.png "Groupchat")
 
-## Features
+## ✨ Features
 
 - Latest features of JavaScript i.e. ES6, ES7, ES8 is used
 - [React JS Hooks](https://reactjs.org/docs/hooks-intro.html) are used with Functional components
@@ -64,12 +64,7 @@ please open an issue first to discuss what you would like to change.
 
 MongoDB, Express, React, Node, Socket.IO, Chakra-UI
 
-## Hosted/Deployed
-
-https://textalot.herokuapp.com/
-
-
-## Usage
+## 🌟 Usage
 
 **Test users**
 
@@ -121,7 +116,3 @@ npm start
 cd frontend
 npm run build
 ```
-
-There is a Heroku postbuild script, so if you push to Heroku, no need to build manually for deployment to Heroku
-
-
